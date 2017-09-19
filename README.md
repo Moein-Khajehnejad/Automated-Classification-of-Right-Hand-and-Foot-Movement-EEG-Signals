@@ -1,1 +1,1 @@
-# Automated-Classification-of-Hand-Foot-Movement-EEG-Signals
+# Automated Classification of Right Hand and Foot Movement EEG-Signals
